@@ -90,6 +90,7 @@ span.sura-head{
     padding: 10px 30px;
     font-size: 20px;
     user-select: none;
+    text-decoration: none;
     color: #ddd;
     cursor: pointer;
     margin: 10px 45px;
@@ -195,6 +196,7 @@ span.sura-head{
     .btn {
         padding: 5px 20px;
         margin: 15px;
+        font-size: 12px;
     }
     
 }

@@ -173,7 +173,7 @@ span.sura-head{
     }
     .head-line {
         left: 24px;
-        width: 252px;
+        width: 285px;
     }
     span.para-head, span.sura-head {
         margin: 0 7px;
@@ -185,12 +185,12 @@ span.sura-head{
         max-height: 438px;
     }
     .img-box img {
-        width: 85%;
-        height: 420px;
+        width: 95%;
+        height: 440px;
         margin: 20px 0 0 0;
     }
     .button {
-        margin: 0 67px 0 15px;
+        margin: 0 30px 0 15px;
     }
     .btn {
         padding: 5px 20px;

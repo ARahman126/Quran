@@ -88,7 +88,7 @@ span.sura-head{
     outline: none;
     background: #888;
     padding: 10px 30px;
-    font-size: 20px;
+    font-size: 12px;
     user-select: none;
     text-decoration: none;
     color: #ddd;
@@ -196,7 +196,6 @@ span.sura-head{
     .btn {
         padding: 5px 20px;
         margin: 15px;
-        font-size: 12px;
     }
     
 }
